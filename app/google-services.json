@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "735490179768",
+    "project_id": "practicatienda-edf73",
+    "storage_bucket": "practicatienda-edf73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735490179768:android:3fd366b525a1a114922a4d",
+        "android_client_info": {
+          "package_name": "com.aidealvarado.myfakestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRwsQht79VYxasBkhIAMFzaKyJGZEp4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735490179768:android:9824930014f8f30e922a4d",
+        "android_client_info": {
+          "package_name": "com.cojayero.fakestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRwsQht79VYxasBkhIAMFzaKyJGZEp4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735490179768:android:8fab26f1587e0d4d922a4d",
+        "android_client_info": {
+          "package_name": "com.example.PracticaTienda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRwsQht79VYxasBkhIAMFzaKyJGZEp4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735490179768:android:ca50bb86a807ef90922a4d",
+        "android_client_info": {
+          "package_name": "com.example.Shoppies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRwsQht79VYxasBkhIAMFzaKyJGZEp4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735490179768-7tt90j4u1b30ehstht2p0a8aaadhe77q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
